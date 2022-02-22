@@ -7,7 +7,8 @@ export default function About() {
                 <h1 className="a-title">What is Zoo Poker?</h1>
                 <p className="a-desc">
                     
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                Zoo Poker is an original NFT collection of 3D playing cards. Each playing card NFT will serve as a membership pass to a season of events, tournaments, and giveaways. In addition to our season of events and tournaments, the Zoo Poker Club will be funding the build of a premier holders-only token verified poker platform for our members to use for all games. Join this amazing community as we build the world's first 100% community poker DAO and build the future of web3 poker.
+ #itsZOOtime
                      
                 </p>
                     <button className="btn">
