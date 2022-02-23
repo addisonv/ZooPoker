@@ -35,7 +35,7 @@ section {
 
 .accordion-link{
     font-size: 1.6rem;
-    color: rgba(255,255,255,.8);
+    color: white;
     text-decoration: none;
     background-color: black;
     width: 100%;
@@ -71,10 +71,11 @@ section {
     max-height: 0;
     overflow: hidden;
     position: relative;
-    background-color: lightgrey;
+    background-color: black;
     font-family: "Futura";
     align-items: center;
     transition: max-height 650ms;
+
 }
 
 .answer::before{
@@ -89,10 +90,12 @@ section {
 }
 
 .answer p{
-    color: black;
+    color: lightgreen;
     font-size: 1.4rem;
     font-family: "Futura";
     padding: 5px;
+    margin: 20px;
+    text-align: center;
 }
 
 .accordion-items:target .answer{
