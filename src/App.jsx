@@ -20,7 +20,9 @@ function App() {
         <Intro/>
         <About/>
         <Roadmap/>
-        <Faq/>
+        <div className="faq">
+          <Faq/>
+        </div>
         <Team/>
         <div className="footer">
           <Footer/>

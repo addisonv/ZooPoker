@@ -6,12 +6,13 @@
     display: flex;
     position: relative;
     flex-direction: column;
-    margin: 0;
 
     .title{
         color: white;
         font-size: 33px;
         font-family: "Futura";
+        overflow: hidden;
+        margin-top: 20px
     }
 }
 
@@ -55,13 +56,14 @@ section{
 
 .note {
     background-color: black;
+    overflow: hidden;
     p{
         font-family: "Futura";
         color: white;
         font-size: 12px;
         margin-left: 250px;
         margin-right: 250px;
-        margin-bottom: 100px;
+        margin-bottom: 50px;
         text-align: center;
     }
 }

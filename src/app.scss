@@ -3,7 +3,7 @@
 
     .sections{
         width: 100%;
-        height: calc(100vh - 70px);
+        height: calc(100vh - 83px);
         background-color: white;
         position: relative;
         top: 70px;
@@ -16,11 +16,13 @@
 
         > *{
             width: 100hv;
-            height: calc(100vh - 70px);
-            scroll-snap-align: start;
+            height: calc(100vh - 83px);
         }
         .footer{
             height: 83px;
+        }
+        .faq{
+            height: 112vh;   
         }
     }
 }
