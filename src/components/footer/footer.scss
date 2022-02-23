@@ -2,8 +2,8 @@
 
 .footer{
     width: 100%;
-    height: 70px;
-    background-color: white;
+    height: 83px;
+    background-color: black;
     color: $mainColor;
     top: 0;
     z-index: 3;
@@ -13,16 +13,20 @@
     justify-content: center;
 
     p{
-        color: black;
+        color: white;
         font-family: "Futura";
         justify-content: center;
     }
     a{
-        color: black;
+        color: white;
         font-family: "Futura";
         text-decoration: none;
     }
     a:hover{
-        color: orange;
+        color: lightgreen;
+    }
+    img{
+        height: 63px;
+        margin-right: 5px;
     }
 }

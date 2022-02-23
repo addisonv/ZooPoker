@@ -100,9 +100,15 @@
                     transform-origin: left;
                     transition: all 2s ease;
                 }
+                &:hover { 
+                    span{
+                        background-color: lightgreen;
+                    }
+                }
             }
         }
     }
+
 
     &.active{
         background-color: $mainColor;

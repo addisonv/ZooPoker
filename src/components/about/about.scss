@@ -61,7 +61,7 @@
 }
 
 .a-title{
-    font-size: 40x;
+    font-size: 33px;
     color: black;
     font-family: "Futura";
 
@@ -73,7 +73,7 @@
 
 .a-desc{
     margin: 20px 50px;
-    font-size: 24px;
+    font-size: 22px;
     color: black;
     line-height: 1.5em;
     font-family: "Futura";
@@ -85,7 +85,7 @@
 }
 
 .btn{
-    font-size: 15px;
+    font-size: 22px;
     padding: 10px;
     border-radius: 30px;
     border: 0px;
@@ -102,4 +102,5 @@
 
 .btn:hover{
     opacity: 0.8;
+    background-color: lightgreen;
 }
