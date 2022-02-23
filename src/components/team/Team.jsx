@@ -14,8 +14,8 @@ export default function Team() {
                                 <img src="assets/zoopokerteam1.jpeg" alt="" /> 
                             </div>
                             <div className="team-info">
-                                <h3>Team Member 1</h3>  
-                                <p>Title</p>
+                                <h3>Kent Morrison</h3>  
+                                <p>Founder</p>
                             </div>  
                             <p className="team-text">Lorum Ipsum dolor sitamet, consectur adipisicing elit.</p>
                         </div>
@@ -26,8 +26,8 @@ export default function Team() {
                                 <img src="assets/zoopokerteam2.jpeg" alt="" /> 
                             </div>
                             <div className="team-info">
-                                <h3>Team Member 1</h3>  
-                                <p>Title</p>
+                                <h3>Aaron Winkler</h3>  
+                                <p>Co-Founder</p>
                             </div>  
                             <p className="team-text">Lorum Ipsum dolor sitamet, consectur adipisicing elit.</p>
                         </div>
