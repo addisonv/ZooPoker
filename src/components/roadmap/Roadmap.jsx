@@ -40,7 +40,7 @@ export default function Roadmap() {
                     </div>
                     <div className="content">
                         <h3>Platform Launch.</h3>
-                        <p>Our season will kick off with our initial mint offering.</p>
+                        <p>The last checkpoint for our Season 1 Roadmap will be merging our entire community and schedule of events to our new and exclusive platform. We will exclusively use our platform for all Zoo Poker endeavors, including our cash games for holders.</p>
                     </div>
                 </div>
                 <div className="note">
