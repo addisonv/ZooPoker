@@ -17,7 +17,7 @@ export default function Team() {
                                 <h3>Kent Morrison</h3>  
                                 <p>Founder</p>
                             </div>  
-                            <p className="team-text">Lorum Ipsum dolor sitamet, consectur adipisicing elit.</p>
+                            <p className="team-text">24 year old creator residing </p>
                         </div>
 
                         {/* Team Member 2 */}
